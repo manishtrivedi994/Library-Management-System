@@ -1,0 +1,20 @@
+h1{
+    font-size: 50px;
+    color: blue;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+
+}
+h2{
+    font-weight: bold;
+    color: green;
+    font-family: Arial;
+}
+.login{
+    background-image: url("library.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: #101010;
+}
